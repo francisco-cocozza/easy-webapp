@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: franciscocodefresh/simple-webapp
+  repository: franciscocodefresh/easy-webapp
   tag: "0.1.0"
   pullPolicy: IfNotPresent
 
